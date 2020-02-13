@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_card">72dp</dimen>
+    <dimen name="marginStart_card">16dp</dimen>
+    <dimen name="marginEnd_card">24dp</dimen>
+    <dimen name="marginBottom_title">5dp</dimen>
+    <dimen name="marginBottom_time">15dp</dimen>
+    <dimen name="paddingBottom_ingress">24dp</dimen>
+    <dimen name="title_height">24dp</dimen>
+    <dimen name="des_height">20dp</dimen>
+    <dimen name="amount_height">28dp</dimen>
+</resources>
